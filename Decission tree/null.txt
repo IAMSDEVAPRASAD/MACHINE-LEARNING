@@ -1,1 +1,2 @@
-
+Data set train : https://www.kaggle.com/datasets/brsdincer/chernobyl-chemical-radiation-csv-country-data
+Data set test : get some from train and put in csv.
